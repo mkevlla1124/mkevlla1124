@@ -7,6 +7,4 @@
 
 <!---
 mkevlla1124/mkevlla1124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Screenshot_20230920-084332](https://github.com/mkevlla1124/mkevlla1124/assets/146134449/d9bf9929-3c8f-4771-bea8-904a03ff0a3f)
+You can click the Preview link to take a look at your changes. 
